@@ -15,11 +15,16 @@ layout: default
 		line-height: 1;
 		letter-spacing: -1px;
 	}
+
+	#not-found-image {
+		margin-top: 5em;
+	}
 </style>
 
 <div class="container_404">
-	<img src="{{ '/assets/404.gif' | relative_url }}">
-	<h1>404</h1>
-	<p><strong>Page not found 😿</strong></p>
-	<p>Your sparkle has not gone unnoticed</p>
+	<span>
+		<h1>404</h1>
+		<h4><strong>Page not found 😿</strong></h4>
+	</span>
+	<img id="not-found-image" src="{{ '/assets/404.gif' | relative_url }}">
 </div>

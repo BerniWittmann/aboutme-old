@@ -1,14 +1,12 @@
-# [sindresorhus.com](https://sindresorhus.com)
+# [bernhardwittmann.com](https://bernhardwittmann.com)
 
-> Personal website of Sindre Sorhus
+> Personal website of Bernhard Wittmann
 
 *The website targets the latest version of Chrome, Safari, and Firefox.*
 
-<a href="https://sindresorhus.com">
-	<img src="screenshot.jpg" width="600">
-</a>
+This is a personalized fork from Sindre Sorhus](https://sindresorhus.com)
 
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT © [Bernhard Wittmann](https://bernhardwittmann.com)
