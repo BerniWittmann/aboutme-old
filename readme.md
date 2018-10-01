@@ -4,7 +4,7 @@
 
 *The website targets the latest version of Chrome, Safari, and Firefox.*
 
-This is a personalized fork from Sindre Sorhus](https://sindresorhus.com)
+This is a personalized fork from [Sindre Sorhus](https://sindresorhus.com)
 
 
 ## License
