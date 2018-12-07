@@ -6,7 +6,7 @@ title: Contact
 ---
 
 <p id="email">
-	<a href="mailto:mail@bernhardwittmann.com">mail@bernhardwittmann.com</a>
+	<a href="mailto:contact@bernhardwittmann.com">contact@bernhardwittmann.com</a>
 </p>
 
 ---
@@ -25,5 +25,11 @@ title: Contact
 			<i class="fab fa-linkedin"></i>
 		</span>
 		<span>LinkedIn</span>
+	</a>
+	<a class="button is-large is-white" href="https://keybase.io/bernhardwittmann">
+		<span class="icon">
+			<i class="fab fa-keybase"></i>
+		</span>
+		<span>Keybase</span>
 	</a>
 </p>
